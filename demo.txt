@@ -1,1 +1,2 @@
 Hello Today!
+Second row added in Git UI!
