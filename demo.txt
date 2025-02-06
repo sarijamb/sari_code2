@@ -1,7 +1,4 @@
 Hello Today!
 second row!
-<<<<<<< HEAD
 Third row to push into central repository!
 fetch!
-=======
->>>>>>> parent of 3530956 (added a third row to push into central)
