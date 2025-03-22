@@ -2,7 +2,8 @@ Hello Today!
 second row!
 Third row to push into central repository!
 fetch!
+<<<<<<< HEAD
 revise branch
 6.0
 #this is Dev1.0 branch changes
-
+this is a change in quick_test branch
