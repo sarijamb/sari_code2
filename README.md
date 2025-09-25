@@ -16,6 +16,3 @@ added another subheader
 THis is a small change in GIthub
 
 This is in Revise Branch
-
-#this is another change in quicktest branch
-
